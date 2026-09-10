@@ -25,7 +25,11 @@
     '05.jpg',
     '06.jpg',
     '07.jpg',
-    '08.jpg'
+    '08.jpg',
+    'Gradeshowimage9.jpeg',
+    'Gradeshowimage10.jpeg',
+    'Gradeshowimage11.jpeg',
+    'Gradeshowimage12.jpeg'
   ];
 
   var PHOTO_URLS = DEFAULT_NAMES.map(function (name) {
